@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Coding" height="400" width="1000"src="https://github.com/BrenoFerrazFerreira/BrenoFerrazFerreira/blob/main/Hi,%20im%20breno.png?raw=true">
+<img alt="Coding" height="400" width="1000"src="https://github.com/BrenoFerrazFerreira/BrenoFerrazFerreira/blob/main/Image/Hi,%20im%20breno.png?raw=true">
 </div>
 
 <p align="center">
@@ -31,5 +31,3 @@ Estou no 2° ano do ensino médio, estudo Desenvolvimento de Sistemas 🤓 na Et
 </div>
   
 ##
-
-  
