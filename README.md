@@ -32,4 +32,4 @@ Estou no 2° ano do ensino médio, estudo Desenvolvimento de Sistemas 🤓 na Et
   
 ##
 
-![Snake animation](https://github.com/rafaballerini/BrenoFerrazFerreira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BrenoFerrazFerreira/BrenoFerrazFerreira/blob/output/github-contribution-grid-snake.svg)
