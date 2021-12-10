@@ -17,7 +17,7 @@ Estou no 2° ano do ensino médio, estudo Desenvolvimento de Sistemas 🤓 na Et
 <h2 align="center"><b>Stats!</b></h2> 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=BrenoFerrazFerreira&show_icons=true&theme=discord_old_blurple&line_height=27">
-  <img height="194em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoFerrazFerreira&layout=compact&langs_count=7&theme=discord_old_blurple">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoFerrazFerreira&layout=compact&langs_count=7&theme=discord_old_blurple">
 </p>
   
   <div style="display: inline_block"><br>
