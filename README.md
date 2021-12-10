@@ -2,10 +2,9 @@
 <img alt="Coding" height="400" width="1000"src="https://github.com/BrenoFerrazFerreira/BrenoFerrazFerreira/blob/main/Hi,%20im%20breno.png?raw=true">
 </div>
 
-### Olá!👋 Eu sou o Breno Ferraz Ferreira.
+##
 
-- 🌱 Atualmente estou estudando Desenvolvimento de Sistemas.
-- 🤖 Sou líder da categoria Sumô LEGO na equipe Omegabotz.
+Estou no 2° ano do ensino médio, estudo Desenvolvimento de Sistemas 🤓 na Etec Fernando Prestes extensão Fatec Sorocaba 🏛. Participo de um grupo de estudos para Olimpíada Brasileira de Informática(OBI) 👨‍💻, onde eu participei de uma prova da OBI até agora, mas estou ancioso por mais ✨! Também participo de uma equipe de robótica chamada Omegabotz 🦾🤖, uma equipe da Facens, onde eu sou líder da categoria Sumô LEGO!
 
 <div align="center">
   <a href="https://github.com/BrenoFerrazFerreira">
