@@ -7,6 +7,7 @@
  <img src="https://badges.pufler.dev/repos/BrenoFerrazFerreira"/>
  <img src="https://badges.pufler.dev/commits/monthly/BrenoFerrazFerreira" />
 </p>
+
   
 <h2 align="center"><b>About Me!</b></h2> 
 <div align="justify">
