@@ -5,7 +5,7 @@
 <p align="center">
  <img src="https://badges.pufler.dev/visits/BrenoFerrazFerreira/BrenoFerrazFerreira"/> 
  <img src="https://badges.pufler.dev/repos/BrenoFerrazFerreira"/>
- <img src="https://badges.pufler.dev/commits/monthly/BrenoFerrazFerreira" />
+ 
 </p>
 
   
