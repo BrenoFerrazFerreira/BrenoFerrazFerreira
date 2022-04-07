@@ -11,7 +11,7 @@
   
 <h2 align="center"><b>About Me!</b></h2> 
 <div align="justify">
-Estou no 2° ano do ensino médio, estudo Desenvolvimento de Sistemas 🤓 na Etec Fernando Prestes extensão Fatec Sorocaba 🏛. Participo de um grupo de estudos para Olimpíada Brasileira de Informática(OBI) 👨‍💻, onde eu participei de uma prova da OBI até agora, mas estou ancioso por mais ✨! Também participo de uma equipe de robótica chamada Omegabotz 🦾🤖, uma equipe da Facens, onde eu sou líder da categoria Sumô LEGO!
+Estou no 3° ano do ensino médio, estudo Desenvolvimento de Sistemas 🤓 na Etec Fernando Prestes extensão Fatec Sorocaba 🏛. Participo de um grupo de estudos para Olimpíada Brasileira de Informática(OBI) 👨‍💻, onde eu participei de uma prova da OBI até agora, mas estou ancioso por mais ✨! Também participo de uma equipe de robótica chamada Omegabotz 🦾🤖, uma equipe da Facens, onde eu sou líder da categoria Sumô LEGO!
 </div>
 <br>
 
