@@ -1,13 +1,7 @@
 <div align="center">
 <img alt="Coding" src="https://github.com/BrenoFerrazFerreira/BrenoFerrazFerreira/blob/main/Image/Hi,%20im%20breno.png?raw=true">
 </div>
-
-<p align="center">
- <img src="https://badges.pufler.dev/visits/BrenoFerrazFerreira/BrenoFerrazFerreira"/> 
- <img src="https://badges.pufler.dev/repos/BrenoFerrazFerreira"/>
- 
-</p>
-
+<br>
   
 <h2 align="center"><b>About Me!</b></h2> 
 <div align="justify">
