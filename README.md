@@ -5,7 +5,7 @@
   
 <h2 align="center"><b>About Me!</b></h2> 
 <div align="justify">
-Estou no 4° ano do ensino superior, estudo Análise e Desenvolvimento de Sistemas 🤓 na Fatec Sorocaba 🏛. Participei de duas provas da OBI - Olimpíada Brasileira de Informática, uma em 2021 e outra em 2022. Também participo de uma equipe de robótica da faculdade Facens chamada Omegabotz 🦾🤖, onde eu sou líder da categoria Sumô LEGO!
+Estou no 5° ano do ensino superior, estudo Análise e Desenvolvimento de Sistemas 🤓 na Fatec Sorocaba 🏛. Participei de duas provas da OBI - Olimpíada Brasileira de Informática, uma em 2021 e outra em 2022. Também participo de uma equipe de robótica da faculdade Facens chamada Omegabotz 🦾🤖, onde já fui líder da categoria Sumô LEGO e atualmente sou integrante da categoria Sumô 3KG!
 </div>
 <br>
 
@@ -25,7 +25,3 @@ Estou no 4° ano do ensino superior, estudo Análise e Desenvolvimento de Sistem
   <img align="center" alt="Breno-Ad" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="right" alt="Breno-pic" height="120" style="border-radius:50px;" src="https://icons.iconarchive.com/icons/elegantthemes/beautiful-flat-one-color/128/dev-icon.png">
 </div>
-  
-##
-
-![Snake animation](https://github.com/BrenoFerrazFerreira/BrenoFerrazFerreira/blob/output/github-contribution-grid-snake.svg)
